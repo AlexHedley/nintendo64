@@ -1,22 +1,276 @@
 {
     "games": [
         {
-            "id": 1,
-            "name": "",
-            "date": "2021-01-01",
+            "id": 34,
+            "name": "Diddy Kong Racing",
             "description": "",
-            "players": [
-                {
-                    "name": "",
-                    "score": 0,
-                    "winner": true
-                },
-                {
-                    "name": "",
-                    "score": 0,
-                    "winner": false
-                }
-            ]
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 33,
+            "name": "007 The World is not Enough",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 32,
+            "name": "Star Wars Racer Episode 1",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 31,
+            "name": "Star Wars Rogue Squadron",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 30,
+            "name": "V-Rally Edition 99",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 29,
+            "name": "NBA Live 99",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 28,
+            "name": "Fifa 99",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 27,
+            "name": "Rainbow Six (x2)",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 26,
+            "name": "International Superstar Soccer 64",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 25,
+            "name": "Knockout Kings 2000",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 24,
+            "name": "Banjo Kazooie",
+            "description": "",
+            "box": "✓",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 23,
+            "name": "WWF No Mercy",
+            "description": "",
+            "box": "✓",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 22,
+            "name": "Zelda",
+            "description": "",
+            "box": "✓",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 21,
+            "name": "Goldeneye",
+            "description": "",
+            "box": "✓",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 20,
+            "name": "South Park",
+            "description": "",
+            "box": "✓",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 19,
+            "name": "Micro Machines 64 Turbo",
+            "description": "",
+            "box": "✓",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 18,
+            "name": "Body Harvest",
+            "description": "",
+            "box": "✓",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 17,
+            "name": "Donkey Kong 64",
+            "description": "",
+            "box": "✓",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 16,
+            "name": "Fifa 99",
+            "description": "",
+            "box": "✓",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 15,
+            "name": "Virtual ...",
+            "description": "",
+            "box": "✓",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 14,
+            "name": "Diddy Kong Racing",
+            "description": "",
+            "box": "✓",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 13,
+            "name": "Hybrid Heaven",
+            "description": "",
+            "box": "✓",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 12,
+            "name": "1080 Snowboarding",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 11,
+            "name": "Pokemon Stadium",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 10,
+            "name": "Shadow",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 9,
+            "name": "Perfect Dark",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 8,
+            "name": "lwars",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 7,
+            "name": "Turok",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "name": "Duke Nukem",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 5,
+            "name": "Magical Tetris Challenge",
+            "description": "",
+            "box": "✘",
+            "booklet": "✓✘",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "name": "WaveRace 64",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "Mortal Kombat 4",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "name": "Star Wars Episode 1 Racer",
+            "description": "",
+            "box": "✘",
+            "booklet": "✘",
+            "image": ""
+        },
+        {
+            "id": 1,
+            "name": "Super Mario 64",
+            "description": "",
+            "box": "✓",
+            "booklet": "✓",
+            "image": ""
         }
     ]
 }
