@@ -1,7 +1,12 @@
 body {
-    background-color: #FCDCB5;
+    background-color: #CC0000;
 }
 
 h1 {
-    color: #FCDCB5;
+    color: #CC0000;
+}
+
+.container {
+  /* max-width: 1140px; */
+  max-width: 1500px;
 }
